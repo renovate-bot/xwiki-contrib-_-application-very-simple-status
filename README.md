@@ -1,6 +1,16 @@
-# (project title)
+# Very Simple Status
 
-(project description).
+This extension enables a status field on each document to provide a simple way of managing pages. A basic color code, based on Color Themes, is supported for each status.
+The current supported statuses are; 
+- Draft (standard button color)
+- Published (success color)
+- Archived (warning color)
+
+## Screenshots
+
+![draft](status_draft.png)
+![published](status_published.png)
+![archived](status_archived.png)
 
 * Project Lead: [(name)](https://www.xwiki.org/xwiki/bin/view/XWiki/(profile id on xwiki.org))
 * Documentation & Downloads: [Documentation & Download](https://extensions.xwiki.org/xwiki/bin/view/Extension/(extension name)))
