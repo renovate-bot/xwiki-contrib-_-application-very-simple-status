@@ -8,6 +8,8 @@ The current supported statuses are;
 
 ## Screenshots
 
+You can check the new status field on the screenshots below, right below the standard document buttons.
+
 ### Draft
 ![draft](status_draft.png)
 
