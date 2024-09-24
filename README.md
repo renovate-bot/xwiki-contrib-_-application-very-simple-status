@@ -8,8 +8,13 @@ The current supported statuses are;
 
 ## Screenshots
 
+### Draft
 ![draft](status_draft.png)
+
+### Published
 ![published](status_published.png)
+
+### Archived
 ![archived](status_archived.png)
 
 * Project Lead: [(name)](https://www.xwiki.org/xwiki/bin/view/XWiki/(profile id on xwiki.org))
